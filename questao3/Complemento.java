@@ -1,6 +1,6 @@
 package questao3;
 
-/** Decorator base: envolve uma Bebida e acrescenta nome e preço. */
+
 public abstract class Complemento implements Bebida {
     private final Bebida bebida;
 
